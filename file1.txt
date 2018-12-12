@@ -1,3 +1,3 @@
 git is a  version control system
 this is file1
-git is a free sofeware
+git is a free sofeware under the GPL
