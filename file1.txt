@@ -2,3 +2,4 @@ git is a  version control system
 this is file1
 git is a free sofeware under the GPL
 git has a mutable index called stage
+add a change
